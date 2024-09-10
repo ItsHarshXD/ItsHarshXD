@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Specializing in Minecraft server development, including Spigot plugins, Minestom integration, and Java programming.</h3>
 
-- 🔭 I’m currently working on **Battle Royale Plugin**
-
+- 🔭 I’m currently working on **Battle Royale**
 - 🌱 I’m currently learning **Minestom**
-
 - 👨‍💻 All of my projects are available at [https://itsharshxd.netlify.app](https://itsharshxd.netlify.app)
-
 - 💬 Ask me about **Spigot, Minestom, Java**
-
 - 📫 How to reach me **msharshraj@gmail.com**
-
 - 📄 Know about my experiences [https://itsharshxd.netlify.app](https://itsharshxd.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
