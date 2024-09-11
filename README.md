@@ -10,18 +10,15 @@
 - **Minestom**: Proficient in using Minestom for advanced server development and logic handling.
 - **Java**: Strong foundation in Java programming with a focus on high-quality, maintainable code.
 
-## 📈 Projects
-
-- **[Project Name]**: Custom Spigot plugin for [brief description of features or functionality].
-- **[Project Name]**: Advanced Minestom server setup with [describe unique features].
-
 ## 🔧 Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=java,idea,androidstudio,html,css,php,mysql,maven,gradle,redis&theme=light)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,idea,androidstudio,html,css,php,mysql,maven,gradle,redis&theme=light" alt="Skills">
+</div>
 
 ## 📫 Contact
 
 Feel free to reach out for collaborations or if you have any questions!
 
 - **Email**: [msharshraj@gmail.com](mailto:msharshraj@gmail.com)
-- **Discord**: [ItsHarshXD](https://discord.com/users/1092793956087124119)
+- **Discord**: [itsharshxd](https://discord.com/users/1092793956087124119)
