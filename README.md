@@ -20,5 +20,6 @@
 
 Feel free to reach out for collaborations or if you have any questions!
 
-- **Email**: [msharshraj@gmail.com](mailto:msharshraj@gmail.com)
-- **Discord**: [itsharshxd](https://discord.com/users/1092793956087124119)
+- **Email**: [harsh@matrixcreations.xyz](mailto:harsh@matrixcreations.xyz)
+- **Discord Server**: [Matrix Creations](https://discord.matrixcreations.xyz/)
+- **Discord Profile**: [itsharshxd](https://discord.com/users/1092793956087124119)
