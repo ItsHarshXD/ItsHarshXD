@@ -13,7 +13,7 @@
 ## 🔧 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,androidstudio,html,css,php,mysql,react,vue,maven,gradle,redis&theme=light" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=java,idea,androidstudio,html,css,php,mysql,react,maven,gradle&theme=light" alt="Skills">
 </div>
 
 ## 📫 Contact
